@@ -4,10 +4,6 @@
 
 <br/>
 
-<img src="https://github.com/el-yy.png?size=160" width="120" height="120" alt="Jhon Fiel Lavandero's GitHub profile photo" />
-
-<br/>
-
 <img src="https://img.shields.io/badge/OPEN%20TO-PROJECTS%20%26%20COLLABORATION-B87355?style=for-the-badge&labelColor=2B2520&logoColor=F6EFE3" alt="Open to projects and collaboration" />
 
 <p>
