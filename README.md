@@ -1,33 +1,39 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:EDE4D4,50:D6C6AE,100:A3B18A&amp;height=190&amp;section=header&amp;text=Jhon%20Fiel%20Lavandero&amp;fontSize=38&amp;fontColor=3D342B&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Computer%20Science%20Student%20%C2%B7%20Full-Stack%20Developer&amp;descAlignY=58&amp;descSize=16" width="100%" alt="Jhon Fiel Lavandero — Computer Science Student and Full-Stack Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171412,45:2B2520,75:596B55,100:B87355&height=220&section=header&text=Jhon%20Fiel%20Lavandero&fontSize=38&fontColor=F6EFE3&animation=fadeIn&fontAlignY=34&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20Developer&descAlignY=56&descSize=16&descColor=D9CDBB" width="100%" alt="Jhon Fiel Lavandero — Computer Science Student and Full-Stack Developer" />
 
-<img src="https://img.shields.io/badge/Open%20to-projects%20%26%20collaboration-83966F?style=flat-square&amp;labelColor=F2E9DA" alt="Open to projects and collaboration" />
+<br/>
 
-<br/><br/>
+<img src="https://img.shields.io/badge/OPEN%20TO-PROJECTS%20%26%20COLLABORATION-B87355?style=for-the-badge&labelColor=2B2520&logoColor=F6EFE3" alt="Open to projects and collaboration" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-el--yy-6F5945?style=flat-square&logo=github&logoColor=F7F2E8)](https://github.com/el-yy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jhon%20Fiel%20Lavandero-6F5945?style=flat-square&logo=linkedin&logoColor=F7F2E8)](https://www.linkedin.com/in/jhon-fiel-lavandero-381491415)
-[![Email](https://img.shields.io/badge/Email-Let's%20connect-6F5945?style=flat-square&logo=gmail&logoColor=F7F2E8)](mailto:jhonfiellavandero06@gmail.com)
+<p>
+  <a href="https://github.com/el-yy"><img src="https://img.shields.io/badge/GitHub-el--yy-F6EFE3?style=flat-square&labelColor=3A3029&logo=github&logoColor=F6EFE3" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/jhon-fiel-lavandero-381491415"><img src="https://img.shields.io/badge/LinkedIn-let's%20connect-F6EFE3?style=flat-square&labelColor=3A3029&logo=linkedin&logoColor=F6EFE3" alt="LinkedIn" /></a>
+  <a href="mailto:jhonfiellavandero06@gmail.com"><img src="https://img.shields.io/badge/Email-say%20hello-F6EFE3?style=flat-square&labelColor=3A3029&logo=gmail&logoColor=F6EFE3" alt="Email" /></a>
+</p>
 
 </div>
 
-## A little about me
+<div align="center">
 
-I'm a Computer Science student at **Lyceum of the Philippines University – Cavite** who enjoys turning complex ideas into thoughtful, functional software. My work spans full-stack applications, analytics platforms, AI-assisted workflows, real-time systems, IoT, and secure system design.
+> I build calm, useful software for complicated problems — from AI-assisted tools and analytics platforms to real-time systems, IoT, and secure full-stack products.
 
-I care about clean, maintainable code, clear technical documentation, and building tools that solve practical problems for real people.
+</div>
+
+## About
+
+I'm a Computer Science student at **Lyceum of the Philippines University – Cavite**. I enjoy taking an idea from a rough sketch to a thoughtful, working product, with an emphasis on maintainable code, clear interfaces, and practical impact.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Currently drawn to
+### Current focus
 
-- Modern full-stack applications
-- Data-driven products and automation
-- AI-assisted learning and decision tools
+- Full-stack applications and product engineering
+- Data-driven products, automation, and AI workflows
 - Cybersecurity, networking, and IoT
+- Tools that make everyday work a little easier
 
 </td>
 <td width="50%" valign="top">
@@ -48,28 +54,96 @@ Notre Dame of Trece Martires City
 
 ## Toolkit
 
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-2B2520?style=flat-square&logo=typescript&logoColor=9BB39A)
+![Python](https://img.shields.io/badge/Python-2B2520?style=flat-square&logo=python&logoColor=E2B879)
+![React](https://img.shields.io/badge/React-2B2520?style=flat-square&logo=react&logoColor=9BB39A)
+![Next.js](https://img.shields.io/badge/Next.js-2B2520?style=flat-square&logo=next.js&logoColor=F6EFE3)
+![FastAPI](https://img.shields.io/badge/FastAPI-2B2520?style=flat-square&logo=fastapi&logoColor=9BB39A)
+![Flutter](https://img.shields.io/badge/Flutter-2B2520?style=flat-square&logo=flutter&logoColor=82B7C9)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2B2520?style=flat-square&logo=postgresql&logoColor=82B7C9)
+![Docker](https://img.shields.io/badge/Docker-2B2520?style=flat-square&logo=docker&logoColor=82B7C9)
+![Supabase](https://img.shields.io/badge/Supabase-2B2520?style=flat-square&logo=supabase&logoColor=9BB39A)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-2B2520?style=flat-square&logo=tailwindcss&logoColor=82B7C9)
+
+</div>
+
+<details>
+<summary><strong>See the full stack</strong></summary>
+
 | Area | Technologies |
 |:--|:--|
 | **Languages** | `TypeScript` `Python` `Dart` `PHP` |
 | **Frontend & apps** | `Next.js` `React` `React Native` `Expo` `Flutter` `Vite` `Tailwind CSS` `shadcn/ui` |
 | **Backend & APIs** | `FastAPI` `Flask` `Express` `REST APIs` `JWT` `Supabase Auth` `Edge Functions` |
-| **Data & storage** | `PostgreSQL` `SQLite` `MySQL` `Supabase` `Redis` `SQLAlchemy` `ChromaDB` |
-| **Data & AI tools** | `Pandas` `Recharts` `SerpApi` `NVIDIA Integrate API` `OpenRouter API` `Groq API` |
-| **Delivery & testing** | `Docker Compose` `pytest` `Vercel` `Netlify` `Render` |
+| **Data & AI** | `PostgreSQL` `SQLite` `MySQL` `Supabase` `Redis` `SQLAlchemy` `ChromaDB` `Pandas` `Recharts` `Groq` `OpenRouter` |
+| **Delivery** | `Docker Compose` `pytest` `Vercel` `Netlify` `Render` |
+
+</details>
 
 ## Selected work
 
-| Project | What it does | Core stack | Link |
-|:--|:--|:--|:--:|
-| **SDG Adventure RPG** | A cozy multiplayer educational RPG that turns the UN Sustainable Development Goals into quests, stories, and meaningful choices. | React 19, TypeScript, Phaser 4, Firebase, Socket.io | [Play ↗](https://sdg-adventure-rpg.web.app/login) |
-| **Finance Monitor AI** | A financial operations platform for receipt capture, transaction extraction, expenses, invoices, reporting, and reconciliation. | Next.js, TypeScript, Supabase, PostgreSQL, Recharts | — |
-| **TrendPulse** | A product opportunity intelligence platform that analyzes market signals with semantic search and AI-assisted insights. | React 19, FastAPI, ChromaDB, SQLAlchemy, NVIDIA Integrate API | [Demo ↗](https://trendpulse-web.onrender.com) |
-| **MediTrack** | A full-stack medication management system with schedules, family profiles, expiry alerts, analytics, and notifications. Local demonstration only; security findings must be remediated before public or real-health-data use. | Next.js, Express, PostgreSQL, Redis, Turborepo | [Repository ↗](https://github.com/el-yy/MediTrack) |
-| **QR Attendance System** | A local-first employee attendance kiosk with permanent QR codes, face verification, audit logs, dashboards, and CSV export. | Expo, React Native, Supabase | [Demo ↗](https://assisted-qr-code-attendance-managem.vercel.app/) |
-| **EtherFlow Pro** | A real-time cryptocurrency monitor that detects abnormal trading volume and turns it into severity-based alerts. | Python, Binance WebSocket API | [Demo ↗](https://ether-flow-beta.vercel.app) |
-| **FLECS** | A retail decision-support platform for sales tracking, inventory, demand-based restocking, supplier coordination, and SES forecasting. | React 18, Flask, SQLite, Recharts, OpenRouter API | — |
-| **Meowther** | A cat-themed cross-platform weather app with live conditions, severe-weather alerts, and push notifications. | Flutter, Dart, React Native, Weather API | — |
-| **StudyBuddy AI** | An AI study companion with RAG tutoring, quizzes, flashcards, notes, planning, Pomodoro sessions, and learning analytics. | Next.js 16, FastAPI, PostgreSQL, ChromaDB, Groq API | — |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### SDG Adventure RPG
+Cozy multiplayer educational RPG turning the UN Sustainable Development Goals into quests and meaningful choices.
+
+`React 19` `TypeScript` `Phaser 4` `Firebase` `Socket.io`<br/>
+[Play the demo ↗](https://sdg-adventure-rpg.web.app/login)
+
+### Finance Monitor AI
+Financial operations platform for receipt capture, transaction extraction, expenses, invoices, reporting, and reconciliation.
+
+`Next.js` `TypeScript` `Supabase` `PostgreSQL` `Recharts`
+
+### TrendPulse
+Product opportunity intelligence platform that analyzes market signals with semantic search and AI-assisted insights.
+
+`React 19` `FastAPI` `ChromaDB` `SQLAlchemy`<br/>
+[View demo ↗](https://trendpulse-web.onrender.com)
+
+### MediTrack
+Medication management system with schedules, family profiles, expiry alerts, analytics, and notifications. Local demonstration only; security findings must be remediated before public or real-health-data use.
+
+`Next.js` `Express` `PostgreSQL` `Redis`<br/>
+[View repository ↗](https://github.com/el-yy/MediTrack)
+
+### QR Attendance System
+Local-first employee attendance kiosk with permanent QR codes, face verification, audit logs, dashboards, and CSV export.
+
+`Expo` `React Native` `Supabase`<br/>
+[View demo ↗](https://assisted-qr-code-attendance-managem.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### EtherFlow Pro
+Real-time cryptocurrency monitor that detects abnormal trading volume and turns it into severity-based alerts.
+
+`Python` `Binance WebSocket API`<br/>
+[View demo ↗](https://ether-flow-beta.vercel.app)
+
+### FLECS
+Retail decision-support platform for sales tracking, inventory, demand-based restocking, supplier coordination, and SES forecasting.
+
+`React 18` `Flask` `SQLite` `Recharts` `OpenRouter API`
+
+### Meowther
+Cat-themed cross-platform weather app with live conditions, severe-weather alerts, and push notifications.
+
+`Flutter` `Dart` `React Native` `Weather API`
+
+### StudyBuddy AI
+AI study companion with RAG tutoring, quizzes, flashcards, notes, planning, Pomodoro sessions, and learning analytics.
+
+`Next.js 16` `FastAPI` `PostgreSQL` `ChromaDB` `Groq API`
+
+</td>
+</tr>
+</table>
 
 ## Credentials & training
 
@@ -81,23 +155,26 @@ Notre Dame of Trece Martires City
 - **Lean Six Sigma White Belt — Six Sigma PH:** [Credential](https://sixsigma.freshlearn.com/certificate/2601390)
 - **Lean Six Sigma White Belt — The Council for Six Sigma Certification:** Completed training
 
-## GitHub snapshot
+## GitHub activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=el-yy&amp;hide_border=true&amp;background=F7F2E8&amp;ring=83966F&amp;fire=6F5945&amp;currStreakLabel=6F5945&amp;sideLabels=51483E&amp;currStreakNum=51483E&amp;sideNums=51483E&amp;dates=8A8176" alt="Jhon Fiel Lavandero's GitHub contribution streak" />
+<img src="https://raw.githubusercontent.com/el-yy/el-yy/main/github-contribution-grid-snake.svg" alt="Animated snake eating Jhon Fiel Lavandero's GitHub contributions" width="100%" />
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=el-yy&amp;bg_color=F7F2E8&amp;color=51483E&amp;line=83966F&amp;point=6F5945&amp;area=true&amp;hide_border=true" width="100%" alt="Jhon Fiel Lavandero's recent GitHub contribution activity" />
+<img src="https://streak-stats.demolab.com?user=el-yy&hide_border=true&background=171412&ring=9BB39A&fire=B87355&currStreakLabel=E2B879&sideLabels=D9CDBB&currStreakNum=F6EFE3&sideNums=F6EFE3&dates=9A8E80" alt="Jhon Fiel Lavandero's GitHub contribution streak" />
 
 </div>
 
-## Let's connect
+## Let’s connect
 
-I'm open to discussing thoughtful software projects, collaboration, and opportunities to learn and contribute.
+I'm open to thoughtful software projects, collaboration, and opportunities to learn and contribute.
 
-- **Email:** [jhonfiellavandero06@gmail.com](mailto:jhonfiellavandero06@gmail.com)
-- **LinkedIn:** [Jhon Fiel Lavandero](https://www.linkedin.com/in/jhon-fiel-lavandero-381491415)
+**Email:** [jhonfiellavandero06@gmail.com](mailto:jhonfiellavandero06@gmail.com)  ·  **LinkedIn:** [Jhon Fiel Lavandero](https://www.linkedin.com/in/jhon-fiel-lavandero-381491415)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:A3B18A,50:D6C6AE,100:EDE4D4&amp;height=110&amp;section=footer" width="100%" alt="Warm decorative footer" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B87355,45:596B55,100:171412&height=110&section=footer" width="100%" alt="Dark cozy decorative footer" />
+
+</div>
