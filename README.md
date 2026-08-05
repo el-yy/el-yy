@@ -74,7 +74,7 @@ I'm exploring the intersection of **AI-assisted learning**, **real-time data**, 
 
 **The build:** `React 19` · `TypeScript` · `Phaser 4` · `Firebase` · `Socket.io`
 
-**The result:** A playable educational experience where learning is connected to exploration, decisions, and shared progress.  
+**The result:** A playable educational experience where learning is connected to exploration, decisions, and shared progress.<br/>
 [Play SDG Adventure RPG ↗](https://sdg-adventure-rpg.web.app/login)
 
 ## Toolkit
