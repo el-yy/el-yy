@@ -58,6 +58,25 @@ I'm exploring the intersection of **AI-assisted learning**, **real-time data**, 
 
 > Building with curiosity, documenting what I learn, and shipping in small, useful steps.
 
+## Build journal
+
+| What I'm exploring | What I'm learning |
+|:--|:--|
+| AI-assisted study tools | Better retrieval, evaluation, and learning feedback |
+| Real-time dashboards | Reliable event-driven systems and useful alerts |
+| Secure full-stack apps | Safer defaults, auditability, and threat modeling |
+
+## Featured case study · SDG Adventure RPG
+
+**The challenge:** Make the UN Sustainable Development Goals feel approachable, memorable, and actionable for learners.
+
+**The approach:** I shaped the experience as a cozy multiplayer RPG, combining quests, stories, meaningful choices, and real-time collaboration instead of presenting the goals as static reference material.
+
+**The build:** `React 19` · `TypeScript` · `Phaser 4` · `Firebase` · `Socket.io`
+
+**The result:** A playable educational experience where learning is connected to exploration, decisions, and shared progress.  
+[Play SDG Adventure RPG ↗](https://sdg-adventure-rpg.web.app/login)
+
 ## Toolkit
 
 <div align="center">
