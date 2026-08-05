@@ -4,6 +4,10 @@
 
 <br/>
 
+<img src="https://github.com/el-yy.png?size=160" width="120" height="120" alt="Jhon Fiel Lavandero's GitHub profile photo" />
+
+<br/>
+
 <img src="https://img.shields.io/badge/OPEN%20TO-PROJECTS%20%26%20COLLABORATION-B87355?style=for-the-badge&labelColor=2B2520&logoColor=F6EFE3" alt="Open to projects and collaboration" />
 
 <p>
@@ -51,6 +55,12 @@ Notre Dame of Trece Martires City
 </td>
 </tr>
 </table>
+
+## Currently building
+
+I'm exploring the intersection of **AI-assisted learning**, **real-time data**, and **practical developer tools**. My current projects are focused on making complex information easier to understand and turning repeated workflows into calm, reliable experiences.
+
+> Building with curiosity, documenting what I learn, and shipping in small, useful steps.
 
 ## Toolkit
 
@@ -142,6 +152,16 @@ AI study companion with RAG tutoring, quizzes, flashcards, notes, planning, Pomo
 `Next.js 16` `FastAPI` `PostgreSQL` `ChromaDB` `Groq API`
 
 </td>
+</tr>
+</table>
+
+## How I work
+
+<table>
+<tr>
+<td width="33%" valign="top"><strong>01 · Understand</strong><br/>Start with the people, constraints, and real problem behind the feature.</td>
+<td width="33%" valign="top"><strong>02 · Build clearly</strong><br/>Prefer small, maintainable pieces with readable interfaces and useful documentation.</td>
+<td width="33%" valign="top"><strong>03 · Improve</strong><br/>Test the important paths, listen to feedback, and iterate toward a calmer product.</td>
 </tr>
 </table>
 
