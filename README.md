@@ -12,11 +12,15 @@
   <a href="mailto:jhonfiellavandero06@gmail.com"><img src="https://img.shields.io/badge/Email-say%20hello-F6EFE3?style=flat-square&labelColor=3A3029&logo=gmail&logoColor=F6EFE3" alt="Email" /></a>
 </p>
 
+<a href="#selected-work">Projects</a> · <a href="#toolkit">Toolkit</a> · <a href="#credentials--training">Credentials</a> · <a href="#lets-connect">Contact</a>
+
 </div>
 
 <div align="center">
 
 > I build calm, useful software for complicated problems — from AI-assisted tools and analytics platforms to real-time systems, IoT, and secure full-stack products.
+
+**I turn complex workflows into calm, useful software.**
 
 </div>
 
@@ -98,34 +102,42 @@ I'm exploring the intersection of **AI-assisted learning**, **real-time data**, 
 
 ## Selected work
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/EDUCATION-ANALYTICS-596B55?style=flat-square" alt="Education and analytics impact areas" />
+<img src="https://img.shields.io/badge/FINANCE-HEALTH-B87355?style=flat-square" alt="Finance and health impact areas" />
+<img src="https://img.shields.io/badge/RETAIL-SECURITY-E2B879?style=flat-square" alt="Retail and security impact areas" />
+
+</div>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### SDG Adventure RPG
+### SDG Adventure RPG · `Live`
 Cozy multiplayer educational RPG turning the UN Sustainable Development Goals into quests and meaningful choices.
 
 `React 19` `TypeScript` `Phaser 4` `Firebase` `Socket.io`<br/>
 [Play the demo ↗](https://sdg-adventure-rpg.web.app/login)
 
-### Finance Monitor AI
+### Finance Monitor AI · `Prototype`
 Financial operations platform for receipt capture, transaction extraction, expenses, invoices, reporting, and reconciliation.
 
 `Next.js` `TypeScript` `Supabase` `PostgreSQL` `Recharts`
 
-### TrendPulse
+### TrendPulse · `Live`
 Product opportunity intelligence platform that analyzes market signals with semantic search and AI-assisted insights.
 
 `React 19` `FastAPI` `ChromaDB` `SQLAlchemy`<br/>
 [View demo ↗](https://trendpulse-web.onrender.com)
 
-### MediTrack
+### MediTrack · `Prototype`
 Medication management system with schedules, family profiles, expiry alerts, analytics, and notifications. Local demonstration only; security findings must be remediated before public or real-health-data use.
 
 `Next.js` `Express` `PostgreSQL` `Redis`<br/>
 [View repository ↗](https://github.com/el-yy/MediTrack)
 
-### QR Attendance System
+### QR Attendance System · `Live`
 Local-first employee attendance kiosk with permanent QR codes, face verification, audit logs, dashboards, and CSV export.
 
 `Expo` `React Native` `Supabase`<br/>
@@ -134,23 +146,23 @@ Local-first employee attendance kiosk with permanent QR codes, face verification
 </td>
 <td width="50%" valign="top">
 
-### EtherFlow Pro
+### EtherFlow Pro · `Live`
 Real-time cryptocurrency monitor that detects abnormal trading volume and turns it into severity-based alerts.
 
 `Python` `Binance WebSocket API`<br/>
 [View demo ↗](https://ether-flow-beta.vercel.app)
 
-### FLECS
+### FLECS · `Prototype`
 Retail decision-support platform for sales tracking, inventory, demand-based restocking, supplier coordination, and SES forecasting.
 
 `React 18` `Flask` `SQLite` `Recharts` `OpenRouter API`
 
-### Meowther
+### Meowther · `Prototype`
 Cat-themed cross-platform weather app with live conditions, severe-weather alerts, and push notifications.
 
 `Flutter` `Dart` `React Native` `Weather API`
 
-### StudyBuddy AI
+### StudyBuddy AI · `Prototype`
 AI study companion with RAG tutoring, quizzes, flashcards, notes, planning, Pomodoro sessions, and learning analytics.
 
 `Next.js 16` `FastAPI` `PostgreSQL` `ChromaDB` `Groq API`
@@ -168,6 +180,24 @@ AI study companion with RAG tutoring, quizzes, flashcards, notes, planning, Pomo
 <td width="33%" valign="top"><strong>03 · Improve</strong><br/>Test the important paths, listen to feedback, and iterate toward a calmer product.</td>
 </tr>
 </table>
+
+<div align="center">
+
+`✦` `✦` `✦`
+
+</div>
+
+## Small details
+
+- I like turning serious subjects into approachable experiences, from SDG quests to AI study tools.
+- I enjoy building across very different domains: education, finance, health, retail, and weather.
+- My favorite product direction is practical software with a little warmth and personality.
+
+## Collaborate with me
+
+I'm especially interested in thoughtful full-stack products, AI-assisted tools, education technology, data-rich interfaces, and projects where security and usability both matter.
+
+If you have an idea in that space, [send me a message](mailto:jhonfiellavandero06@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/jhon-fiel-lavandero-381491415).
 
 ## Credentials & training
 
