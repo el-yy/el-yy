@@ -24,38 +24,6 @@
 
 </div>
 
-## About
-
-I'm a Computer Science student at **Lyceum of the Philippines University – Cavite**. I enjoy taking an idea from a rough sketch to a thoughtful, working product, with an emphasis on maintainable code, clear interfaces, and practical impact.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Current focus
-
-- Full-stack applications and product engineering
-- Data-driven products, automation, and AI workflows
-- Cybersecurity, networking, and IoT
-- Tools that make everyday work a little easier
-
-</td>
-<td width="50%" valign="top">
-
-### Education
-
-**BS Computer Science**  
-Lyceum of the Philippines University – Cavite  
-*August 2023 – Present*
-
-**Senior High School – STEM**  
-Notre Dame of Trece Martires City  
-*August 2022 – July 2023*
-
-</td>
-</tr>
-</table>
-
 ## Currently building
 
 I'm exploring the intersection of **AI-assisted learning**, **real-time data**, and **practical developer tools**. My current projects are focused on making complex information easier to understand and turning repeated workflows into calm, reliable experiences.
