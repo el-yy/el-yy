@@ -101,3 +101,15 @@ Retail sales tracking, inventory, demand-based restocking, supplier coordination
 Thoughtful full-stack products, AI-assisted tools, education technology, data-rich interfaces, and projects where security and usability both matter.
 
 [Start a conversation →](mailto:jhonfiellavandero06@gmail.com)
+
+## GitHub Snapshot
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/el-yy/el-yy/main/github-contribution-grid-snake.svg" alt="Animated snake showing Jhon Fiel Lavandero's GitHub contributions" width="100%" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=el-yy&hide_border=true&background=171412&ring=9BB39A&fire=B87355&currStreakLabel=E2B879&sideLabels=D9CDBB&currStreakNum=F6EFE3&sideNums=F6EFE3&dates=9A8E80" alt="Jhon Fiel Lavandero's GitHub contribution streak" />
+
+</div>
