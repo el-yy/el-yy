@@ -26,21 +26,21 @@ I like taking a rough problem, finding the useful shape inside it, and building 
 
 A cozy multiplayer educational RPG turning the UN Sustainable Development Goals into quests, stories, and meaningful choices.
 
-`React 19` `TypeScript` `Phaser 4` `Firebase` `Socket.io`  
+`React 19` `TypeScript` `Phaser 4` `Firebase` `Socket.io`<br/>
 [Open the demo ↗](https://sdg-adventure-rpg.web.app/login)
 
 #### TrendPulse
 
 Product opportunity intelligence through semantic search and AI-assisted market signals.
 
-`React 19` `FastAPI` `ChromaDB` `SQLAlchemy`  
+`React 19` `FastAPI` `ChromaDB` `SQLAlchemy`<br/>
 [Open the demo ↗](https://trendpulse-web.onrender.com)
 
 #### EtherFlow Pro
 
 Real-time cryptocurrency volume monitoring with severity-based alerts.
 
-`Python` `Binance WebSocket API`  
+`Python` `Binance WebSocket API`<br/>
 [Open the demo ↗](https://ether-flow-beta.vercel.app)
 
 ### Work in progress
