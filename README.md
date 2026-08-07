@@ -1,6 +1,6 @@
 <div align="center">
 
-# Jhon Fiel Lavandero
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&duration=3500&pause=1200&color=F6EFE3&center=true&vCenter=true&width=700&lines=Jhon+Fiel+Lavandero" alt="Jhon Fiel Lavandero" />
 
 **Full-stack developer building practical tools for complicated workflows.**
 
