@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&duration=3500&pause=1200&color=F6EFE3&center=true&vCenter=true&width=700&lines=Jhon+Fiel+Lavandero" alt="Jhon Fiel Lavandero" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1100&color=E2B879&background=17141200&center=true&vCenter=true&width=760&height=90&lines=Jhon+Fiel+Lavandero;building+thoughtful+software&cursor=true&cursorStyle=%E2%96%8C" alt="Jhon Fiel Lavandero — building thoughtful software" />
 
 **Full-stack developer building practical tools for complicated workflows.**
 
