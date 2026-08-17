@@ -2,50 +2,101 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1100&color=E2B879&background=17141200&center=true&vCenter=true&width=760&height=90&lines=Jhon+Fiel+Lavandero;building+thoughtful+software&cursor=true&cursorStyle=%E2%96%8C" alt="Jhon Fiel Lavandero — building thoughtful software" />
 
-**Full-stack developer building practical tools for complicated workflows.**
+```text
+full-stack developer · AI systems · data tools · secure products
+```
 
 [GitHub](https://github.com/el-yy) · [LinkedIn](https://www.linkedin.com/in/jhon-fiel-lavandero-381491415) · [Email](mailto:jhonfiellavandero06@gmail.com)
 
-`AI systems` · `data tools` · `secure products` · `real-time apps`
-
 </div>
 
----
+```console
+$ whoami
+jhon-fiel-lavandero
 
-## Tools on the bench
+$ mission
+turn complicated workflows into calm, useful software
+```
+
+## `$ cat ./profile.txt`
+
+I build across full-stack applications, analytics, AI-assisted workflows, IoT, and security-minded systems. I care about software that stays understandable after the first release.
+
+```text
+principles:
+  - start with the real workflow
+  - make the interface legible
+  - test important paths
+  - document the tradeoffs
+```
+
+## `$ ls ./toolkit`
 
 | Layer | Tools |
 |:--|:--|
-| **Languages** | TypeScript · Python · Dart · PHP |
-| **Interfaces** | Next.js · React · React Native · Expo · Flutter · Vite · Tailwind CSS |
-| **Systems** | FastAPI · Flask · Express · REST APIs · JWT · Supabase |
-| **Data** | PostgreSQL · SQLite · MySQL · Redis · SQLAlchemy · ChromaDB · Pandas |
-| **Delivery** | Docker Compose · pytest · Vercel · Netlify · Render |
+| `languages/` | TypeScript · Python · Dart · PHP |
+| `interfaces/` | Next.js · React · React Native · Expo · Flutter · Vite · Tailwind CSS |
+| `systems/` | FastAPI · Flask · Express · REST APIs · JWT · Supabase |
+| `data/` | PostgreSQL · SQLite · MySQL · Redis · SQLAlchemy · ChromaDB · Pandas |
+| `delivery/` | Docker Compose · pytest · Vercel · Netlify · Render |
 
-## Notes from the bench
+## `$ find ./projects -maxdepth 1 -type f`
 
-- I prefer practical software with a little warmth and personality.
-- I enjoy moving between very different domains: education, finance, health, retail, and weather.
-- I treat security, documentation, and maintainability as part of the product—not cleanup for later.
+```text
+./sdg-adventure-rpg       [live]
+./trendpulse              [live]
+./etherflow-pro           [live]
+./finance-monitor-ai     [prototype]
+./studybuddy-ai           [prototype]
+./flecs                   [prototype]
+./meditrack               [prototype]
+./qr-attendance-system    [live]
+./meowther                [prototype]
+```
 
-## Working principles
+### `./sdg-adventure-rpg`
 
-1. **Start with the real workflow.** Understand the people, constraints, and failure modes first.
-2. **Make the interface legible.** Good software should explain itself while it is being used.
-3. **Keep the system honest.** Test important paths, document tradeoffs, and avoid claiming more than the product can do.
+Cozy multiplayer educational RPG turning the UN Sustainable Development Goals into quests, stories, and meaningful choices.  
+`React 19` `TypeScript` `Phaser 4` `Firebase` `Socket.io` · [run demo ↗](https://sdg-adventure-rpg.web.app/login)
 
-## Credentials
+### `./trendpulse`
 
-- **Cisco Networking Academy:** Python Essentials 1 & 2, Introduction to Cybersecurity, Ethical Hacker, HTML Essentials
-- **Lean Six Sigma:** White Belt training through Six Sigma PH and the Council for Six Sigma Certification
+Product opportunity intelligence through semantic search and AI-assisted market signals.  
+`React 19` `FastAPI` `ChromaDB` `SQLAlchemy` · [run demo ↗](https://trendpulse-web.onrender.com)
 
-## Open to
+### `./etherflow-pro`
+
+Real-time cryptocurrency volume monitoring with severity-based alerts.  
+`Python` `Binance WebSocket API` · [run demo ↗](https://ether-flow-beta.vercel.app)
+
+### `./studybuddy-ai`
+
+RAG tutoring, quizzes, flashcards, notes, planning, Pomodoro sessions, and learning analytics.  
+`Next.js 16` `FastAPI` `PostgreSQL` `ChromaDB` `Groq API`
+
+<details>
+<summary><code>cat ./projects/more.txt</code></summary>
+
+- **Finance Monitor AI** — receipt capture, transaction extraction, expenses, invoices, reporting, and reconciliation.
+- **MediTrack** — medication schedules, family profiles, expiry alerts, analytics, and notifications. [repository ↗](https://github.com/el-yy/MediTrack)
+- **QR Attendance System** — local-first attendance with QR codes, face verification, audit logs, and CSV export. [demo ↗](https://assisted-qr-code-attendance-managem.vercel.app/)
+- **FLECS** — retail sales, inventory, restocking, supplier coordination, and SES forecasting.
+- **Meowther** — cat-themed weather app with live conditions, severe-weather alerts, and push notifications.
+
+</details>
+
+## `$ cat ./credentials.txt`
+
+- Cisco Networking Academy: Python Essentials 1 & 2, Introduction to Cybersecurity, Ethical Hacker, HTML Essentials
+- Lean Six Sigma: White Belt training through Six Sigma PH and the Council for Six Sigma Certification
+
+## `$ echo $OPEN_TO`
 
 Thoughtful full-stack products, AI-assisted tools, education technology, data-rich interfaces, and projects where security and usability both matter.
 
-[Start a conversation →](mailto:jhonfiellavandero06@gmail.com)
+`contact --email` [jhonfiellavandero06@gmail.com](mailto:jhonfiellavandero06@gmail.com)
 
-## GitHub Snapshot
+## `$ ./github-snapshot`
 
 <div align="center">
 
