@@ -18,18 +18,6 @@ $ mission
 turn complicated workflows into calm, useful software
 ```
 
-## `$ cat ./profile.txt`
-
-I build across full-stack applications, analytics, AI-assisted workflows, IoT, and security-minded systems. I care about software that stays understandable after the first release.
-
-```text
-principles:
-  - start with the real workflow
-  - make the interface legible
-  - test important paths
-  - document the tradeoffs
-```
-
 ## `$ ls ./toolkit`
 
 | Layer | Tools |
