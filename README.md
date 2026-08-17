@@ -56,22 +56,22 @@ principles:
 
 ### `./sdg-adventure-rpg`
 
-Cozy multiplayer educational RPG turning the UN Sustainable Development Goals into quests, stories, and meaningful choices.  
+Cozy multiplayer educational RPG turning the UN Sustainable Development Goals into quests, stories, and meaningful choices.<br/>
 `React 19` `TypeScript` `Phaser 4` `Firebase` `Socket.io` · [run demo ↗](https://sdg-adventure-rpg.web.app/login)
 
 ### `./trendpulse`
 
-Product opportunity intelligence through semantic search and AI-assisted market signals.  
+Product opportunity intelligence through semantic search and AI-assisted market signals.<br/>
 `React 19` `FastAPI` `ChromaDB` `SQLAlchemy` · [run demo ↗](https://trendpulse-web.onrender.com)
 
 ### `./etherflow-pro`
 
-Real-time cryptocurrency volume monitoring with severity-based alerts.  
+Real-time cryptocurrency volume monitoring with severity-based alerts.<br/>
 `Python` `Binance WebSocket API` · [run demo ↗](https://ether-flow-beta.vercel.app)
 
 ### `./studybuddy-ai`
 
-RAG tutoring, quizzes, flashcards, notes, planning, Pomodoro sessions, and learning analytics.  
+RAG tutoring, quizzes, flashcards, notes, planning, Pomodoro sessions, and learning analytics.<br/>
 `Next.js 16` `FastAPI` `PostgreSQL` `ChromaDB` `Groq API`
 
 <details>
