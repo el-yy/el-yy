@@ -13,9 +13,6 @@ full-stack developer · AI systems · data tools · secure products
 ```console
 $ whoami
 jhon-fiel-lavandero
-
-$ mission
-turn complicated workflows into calm, useful software
 ```
 
 ## `$ ls ./toolkit`
