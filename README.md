@@ -10,11 +10,6 @@ full-stack developer · AI systems · data tools · secure products
 
 </div>
 
-```console
-$ whoami
-jhon-fiel-lavandero
-```
-
 ## `$ ls ./toolkit`
 
 | Layer | Tools |
